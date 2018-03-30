@@ -1,0 +1,2281 @@
+[
+    {
+        "outputFile": "C:\\Users\\ADMIN\\Downloads\\Echo\\Echo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 63,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 63,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 66,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 66,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 63,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 648
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\Downloads\\Echo\\Echo\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 653,
+                    "endColumn": 90,
+                    "endOffset": 739
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 90,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 744,
+                    "endColumn": 102,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 102,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endColumn": 102,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 102,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 104,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 104,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 106,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 106,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 108,
+                    "endOffset": 1266
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 108,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1271,
+                    "endColumn": 108,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 108,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 108,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 108,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1489,
+                    "endColumn": 108,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 108,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1598,
+                    "endColumn": 108,
+                    "endOffset": 1702
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 108,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1707,
+                    "endColumn": 106,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 106,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endColumn": 102,
+                    "endOffset": 1912
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 102,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1917,
+                    "endColumn": 118,
+                    "endOffset": 2031
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 118,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2036,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 2341
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2346,
+                    "endColumn": 104,
+                    "endOffset": 2446
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 104,
+                        "endOffset": 1848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2451,
+                    "endColumn": 120,
+                    "endOffset": 2567
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 120,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2572,
+                    "endColumn": 100,
+                    "endOffset": 2668
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 100,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2673,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2815
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2820,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 2358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endColumn": 102,
+                    "endOffset": 3059
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endColumn": 102,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3064,
+                    "endColumn": 118,
+                    "endOffset": 3178
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endColumn": 118,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3183,
+                    "endColumn": 106,
+                    "endOffset": 3285
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2585,
+                        "endColumn": 106,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3290,
+                    "endColumn": 102,
+                    "endOffset": 3388
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 102,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3393,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 3543
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3548,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 3714
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2950,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3719,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 3863
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 3265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3868,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 4028
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3270,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 3430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4033,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 4185
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3435,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 3587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4190,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 4336
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3592,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 3738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4341,
+                    "endColumn": 118,
+                    "endOffset": 4455
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3743,
+                        "endColumn": 118,
+                        "endOffset": 3857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4460,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 4827
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3862,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4832,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 4976
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4234,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4981,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5125
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4383,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5130,
+                    "endColumn": 111,
+                    "endOffset": 5237
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4532,
+                        "endColumn": 111,
+                        "endOffset": 4639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5242,
+                    "endColumn": 146,
+                    "endOffset": 5384
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 146,
+                        "endOffset": 4786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5389,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 5537
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4791,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5542,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 5684
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4944,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5689,
+                    "endColumn": 74,
+                    "endOffset": 5759
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5091,
+                        "endColumn": 74,
+                        "endOffset": 5161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5764,
+                    "endColumn": 88,
+                    "endOffset": 5848
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5166,
+                        "endColumn": 88,
+                        "endOffset": 5250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5853,
+                    "endColumn": 86,
+                    "endOffset": 5935
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5255,
+                        "endColumn": 86,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5940,
+                    "endColumn": 100,
+                    "endOffset": 6036
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5342,
+                        "endColumn": 100,
+                        "endOffset": 5438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6041,
+                    "endColumn": 102,
+                    "endOffset": 6139
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5443,
+                        "endColumn": 102,
+                        "endOffset": 5541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6144,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 9207
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5546,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 8609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9212,
+                    "endLine": 120,
+                    "endColumn": 12,
+                    "endOffset": 9393
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8614,
+                        "endLine": 109,
+                        "endColumn": 12,
+                        "endOffset": 8795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 9398,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 12473
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8800,
+                        "endLine": 153,
+                        "endColumn": 12,
+                        "endOffset": 11875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12478,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12671
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 11880,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 12073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12676,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 12871
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12078,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 12273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 12876,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 13082
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\a703bd2e3abd6df9919a736524998ca8\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13087,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 13205
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12278,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 12396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 13210,
+                    "endLine": 177,
+                    "endColumn": 12,
+                    "endOffset": 13328
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12401,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13333,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 13441
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12524,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13446,
+                    "endLine": 182,
+                    "endColumn": 12,
+                    "endOffset": 13624
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12637,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13629,
+                    "endLine": 184,
+                    "endColumn": 12,
+                    "endOffset": 13755
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12820,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 12946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 13760,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 13956
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 12951,
+                        "endLine": 173,
+                        "endColumn": 12,
+                        "endOffset": 13147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 13961,
+                    "endColumn": 88,
+                    "endOffset": 14045
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13152,
+                        "endColumn": 88,
+                        "endOffset": 13236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14050,
+                    "endColumn": 110,
+                    "endOffset": 14156
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13241,
+                        "endColumn": 110,
+                        "endOffset": 13347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14161,
+                    "endLine": 192,
+                    "endColumn": 12,
+                    "endOffset": 14389
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 13352,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 13580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14394,
+                    "endColumn": 100,
+                    "endOffset": 14490
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13585,
+                        "endColumn": 100,
+                        "endOffset": 13681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14495,
+                    "endColumn": 94,
+                    "endOffset": 14585
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13686,
+                        "endColumn": 94,
+                        "endOffset": 13776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 14590,
+                    "endColumn": 122,
+                    "endOffset": 14708
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 13781,
+                        "endColumn": 122,
+                        "endOffset": 13899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14713,
+                    "endColumn": 128,
+                    "endOffset": 14837
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 13904,
+                        "endColumn": 128,
+                        "endOffset": 14028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 14842,
+                    "endColumn": 116,
+                    "endOffset": 14954
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14033,
+                        "endColumn": 116,
+                        "endOffset": 14145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 14959,
+                    "endLine": 200,
+                    "endColumn": 12,
+                    "endOffset": 15131
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14150,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 14322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 15136,
+                    "endColumn": 98,
+                    "endOffset": 15230
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14327,
+                        "endColumn": 98,
+                        "endOffset": 14421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15235,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 15365
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14426,
+                        "endLine": 189,
+                        "endColumn": 12,
+                        "endOffset": 14556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15370,
+                    "endLine": 205,
+                    "endColumn": 12,
+                    "endOffset": 15508
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 14561,
+                        "endLine": 191,
+                        "endColumn": 12,
+                        "endOffset": 14699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 15513,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 15643
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14704,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15648,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 15762
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14839,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 14953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15767,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 15963
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 14958,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 15968,
+                    "endLine": 215,
+                    "endColumn": 12,
+                    "endOffset": 16082
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15159,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 16087,
+                    "endColumn": 92,
+                    "endOffset": 16175
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15278,
+                        "endColumn": 92,
+                        "endOffset": 15366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16180,
+                    "endColumn": 110,
+                    "endOffset": 16286
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15371,
+                        "endColumn": 110,
+                        "endOffset": 15477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16291,
+                    "endColumn": 55,
+                    "endOffset": 16342
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 15482,
+                        "endColumn": 55,
+                        "endOffset": 15533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16347,
+                    "endLine": 220,
+                    "endColumn": 12,
+                    "endOffset": 16449
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 15538,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 15640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 16454,
+                    "endLine": 224,
+                    "endColumn": 12,
+                    "endOffset": 16644
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 15645,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16649,
+                    "endLine": 226,
+                    "endColumn": 12,
+                    "endOffset": 16755
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15840,
+                        "endLine": 212,
+                        "endColumn": 12,
+                        "endOffset": 15946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16760,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 16888
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 15951,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 16893,
+                    "endColumn": 94,
+                    "endOffset": 16983
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16084,
+                        "endColumn": 94,
+                        "endOffset": 16174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 16988,
+                    "endColumn": 90,
+                    "endOffset": 17074
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 16179,
+                        "endColumn": 90,
+                        "endOffset": 16265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 17079,
+                    "endColumn": 90,
+                    "endOffset": 17165
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16270,
+                        "endColumn": 90,
+                        "endOffset": 16356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 17170,
+                    "endColumn": 116,
+                    "endOffset": 17282
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16361,
+                        "endColumn": 116,
+                        "endOffset": 16473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 17287,
+                    "endLine": 234,
+                    "endColumn": 12,
+                    "endOffset": 17421
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 16612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 17426,
+                    "endColumn": 96,
+                    "endOffset": 17518
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\a703bd2e3abd6df9919a736524998ca8\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 96,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 17523,
+                    "endColumn": 70,
+                    "endOffset": 17589
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16617,
+                        "endColumn": 70,
+                        "endOffset": 16683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 17594,
+                    "endColumn": 82,
+                    "endOffset": 17672
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 16688,
+                        "endColumn": 82,
+                        "endOffset": 16766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 17677,
+                    "endLine": 247,
+                    "endColumn": 12,
+                    "endOffset": 18352
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 16771,
+                        "endLine": 232,
+                        "endColumn": 12,
+                        "endOffset": 17446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 18357,
+                    "endColumn": 56,
+                    "endOffset": 18409
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 17451,
+                        "endColumn": 56,
+                        "endOffset": 17503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 18414,
+                    "endColumn": 57,
+                    "endOffset": 18467
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 17508,
+                        "endColumn": 57,
+                        "endOffset": 17561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 18472,
+                    "endLine": 261,
+                    "endColumn": 12,
+                    "endOffset": 19161
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 17566,
+                        "endLine": 246,
+                        "endColumn": 12,
+                        "endOffset": 18255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 19166,
+                    "endLine": 273,
+                    "endColumn": 12,
+                    "endOffset": 19867
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 18260,
+                        "endLine": 258,
+                        "endColumn": 12,
+                        "endOffset": 18961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 19872,
+                    "endColumn": 118,
+                    "endOffset": 19986
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 18966,
+                        "endColumn": 118,
+                        "endOffset": 19080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 19991,
+                    "endColumn": 128,
+                    "endOffset": 20115
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 19085,
+                        "endColumn": 128,
+                        "endOffset": 19209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 20120,
+                    "endLine": 278,
+                    "endColumn": 12,
+                    "endOffset": 20286
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 4,
+                        "startOffset": 19214,
+                        "endLine": 263,
+                        "endColumn": 12,
+                        "endOffset": 19380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 20291,
+                    "endLine": 281,
+                    "endColumn": 12,
+                    "endOffset": 20452
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 19385,
+                        "endLine": 266,
+                        "endColumn": 12,
+                        "endOffset": 19546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 20457,
+                    "endColumn": 128,
+                    "endOffset": 20581
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 19551,
+                        "endColumn": 128,
+                        "endOffset": 19675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 20586,
+                    "endLine": 285,
+                    "endColumn": 12,
+                    "endOffset": 20752
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 19680,
+                        "endLine": 270,
+                        "endColumn": 12,
+                        "endOffset": 19846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 20757,
+                    "endColumn": 130,
+                    "endOffset": 20883
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 19851,
+                        "endColumn": 130,
+                        "endOffset": 19977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 20888,
+                    "endLine": 289,
+                    "endColumn": 12,
+                    "endOffset": 21053
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\66283927dfb483a08ffbee77553a4525\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 19982,
+                        "endLine": 274,
+                        "endColumn": 12,
+                        "endOffset": 20147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 21058,
+                    "endColumn": 115,
+                    "endOffset": 21169
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 115,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 21174,
+                    "endColumn": 125,
+                    "endOffset": 21295
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 125,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 21300,
+                    "endLine": 294,
+                    "endColumn": 12,
+                    "endOffset": 21463
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\95467b1ad54f0c706206b659cb889ab7\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 21468,
+                    "endLine": 297,
+                    "endColumn": 12,
+                    "endOffset": 21626
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\95467b1ad54f0c706206b659cb889ab7\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 21631,
+                    "endColumn": 125,
+                    "endOffset": 21752
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 125,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 21757,
+                    "endLine": 301,
+                    "endColumn": 12,
+                    "endOffset": 21920
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\95467b1ad54f0c706206b659cb889ab7\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 21925,
+                    "endColumn": 127,
+                    "endOffset": 22048
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 127,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 22053,
+                    "endLine": 305,
+                    "endColumn": 12,
+                    "endOffset": 22215
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\95467b1ad54f0c706206b659cb889ab7\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 22220,
+                    "endLine": 308,
+                    "endColumn": 12,
+                    "endOffset": 22387
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 22392,
+                    "endLine": 313,
+                    "endColumn": 12,
+                    "endOffset": 22725
+                },
+                "from": {
+                    "file": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\10ed2d73b05c09b4abb83461e166f9ff\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1355
+                    }
+                }
+            }
+        ]
+    }
+]
